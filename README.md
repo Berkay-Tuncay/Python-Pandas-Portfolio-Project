@@ -7,7 +7,7 @@
 <h5>StudentPerformanceFactors.csv (from kaggle)</h5>
 
 <h3>Tech:</h3>
-<h5>-Python
-    -Pandas, Numpy, Seaborn, Matplotlib (Librarys of python)
-    -Jupyter Notebook</h5>
+<h5>-Python</h5>
+<h5>-Pandas, Numpy, Seaborn, Matplotlib (Librarys of python)</h5>
+<h5>-Jupyter Notebook</h5>
   
